@@ -1,11 +1,11 @@
 {
-  "name": "sticky-sidebar-v2",
+  "name": "sticky-sidebar-v3",
   "description": "A JavaScript plugin for making smart and high performance sticky sidebars.",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "author": "Øystein Blixhavn",
   "email": "oystein@blixhavn.no",
   "license": "The MIT License (MIT)",
-  "homepage": "https://github.com/blixhavn/sticky-sidebar-v2",
+  "homepage": "https://github.com/webard/sticky-sidebar-v3",
   "main": "./dist/sticky-sidebar.js",
   "module": "./src/sticky-sidebar.js",
   "keywords": [
@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/blixhavn/sticky-sidebar-v2.git"
+    "url": "https://github.com/webard/sticky-sidebar-v3.git"
   },
   "optionalDependencies": {
     "fsevents": "^1.2.13"
