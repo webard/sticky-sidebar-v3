@@ -32,6 +32,9 @@
     "type": "git",
     "url": "https://github.com/blixhavn/sticky-sidebar-v2.git"
   },
+  "optionalDependencies": {
+    "fsevents": "^1.2.13"
+  },
   "devDependencies": {
     "babel": "^6.23.0",
     "@babel/core": "^7.15.5",
